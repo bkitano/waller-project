@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "waller-project"
+version = "0.1.0"
+description = ""
+authors = ["bkitano <briankitano@gmail.com>"]
+readme = "README.md"
+packages = [{include = "waller_project"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+langchain = "^0.0.239"
+jupyter = "^1.0.0"
+matplotlib = "^3.7.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
