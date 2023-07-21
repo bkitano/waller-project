@@ -7,7 +7,7 @@ On How to Trigger a Small Intelligence Explosion
 - What is an intelligence explosion?
 
 # Risk perspective
-Yudkowsky - "[self-awareness] is probably not quite what's going in [GPT-4] in reality." [podcast](https://youtu.be/AaTRHFaaPG8?t=92)
+"[self-awareness] is probably not quite what's going in [GPT-4] in reality." [Eliezer Yudkowsky](https://youtu.be/AaTRHFaaPG8?t=92)
 
 ## We are playing with dynamite, not nukes.
 Current language models do not possess enough [quality intelligence](https://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies) to pose a threat to humans.
