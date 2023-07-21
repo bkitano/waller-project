@@ -7,9 +7,13 @@ On How to Trigger a Small Intelligence Explosion
 - What is an intelligence explosion?
 
 # Risk perspective
+Yudkowsky - "[self-awareness] is probably not quite what's going in [GPT-4] in reality." [podcast](https://youtu.be/AaTRHFaaPG8?t=92)
 
-- We are playing with dynamite, not nukes.
-- We are playing in the desert, not the forest.
+## We are playing with dynamite, not nukes.
+Current language models do not possess enough [quality intelligence](https://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies) to pose a threat to humans.
+
+## We are playing in the desert, not the forest. 
+There are simply not enough affordances for agents to interact with the outside world for agents to actually be useful. OpenAI Function Calling only goes so far. So it's not like starting a fire in a forest, it's like starting a fire in the desert.
 
 ### Considerations of harm
 
@@ -22,7 +26,7 @@ On How to Trigger a Small Intelligence Explosion
 
 ### Requirements
 
-- An agent augments its own capability in a domain that “has economic or strategic significance.” [Bostrom]
+- An agent augments its own capability in a domain that “has economic or strategic significance.” [Nick Bostrom](https://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies)
 - All the agent has to do is improve itself, and persist its improvement.
 - The agent must exhibit awareness of its own improvement. (interpretability)
 
@@ -51,7 +55,7 @@ Collective intelligence - it starts with a task and a benchmark, and figures out
 
 ## Simula vs Simulacra
 
-> Takeaway: we’re not here to answer questions about the nature of the models. We treat machine intelligence as a fundamentally different kind of intelligence from human intelligence. We distinguish between phenomena (task performance) and epiphenomena (consciousness, motivation, etc.). Among other compelling hypotheses motivated by improving performance, we can test whether epiphenomena present in human intelligence can improve task performance in machine intelligence. We do not aim to inquire whether or which epiphenomena are responsible for task performance or task performance improvements, which are questions of interpretability. (See [[1](https://www.anthropic.com/index/in-context-learning-and-induction-heads)])
+> Takeaway: we’re not here to answer questions about the nature of the models. We treat machine intelligence as a fundamentally different kind of intelligence from human intelligence. We distinguish between phenomena (task performance) and epiphenomena (consciousness, motivation, etc.). Among other compelling hypotheses motivated by improving performance, we can test whether epiphenomena present in human intelligence can improve task performance in machine intelligence. We do not aim to inquire whether or which epiphenomena are responsible for task performance or task performance improvements, which are questions of interpretability. (eg [In-context Learning and Induction Heads](https://www.anthropic.com/index/in-context-learning-and-induction-heads)).
 > 
 - We are not inquiring about intrinsic, embedded, implicit, latent, or unobserved cognition, consciousness or phenomenology. We assess based on empirical evidence, and rely on framing inquiries around whether a behavior of inquiry is “exhibited”, not “is”.
 - We do not aim to mimic, replicate or recreate human intelligence. We aim to perform intellectual tasks that humans do, and we don’t confuse or represent one (consciousness) for the other (action). [Baudrillard]
@@ -98,5 +102,4 @@ Collective intelligence - it starts with a task and a benchmark, and figures out
 # Appendix
 
 # Bibliography
-
 1. https://www.anthropic.com/index/in-context-learning-and-induction-heads
