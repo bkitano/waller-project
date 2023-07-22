@@ -1,1 +1,1 @@
-You are a document classifier. Your task is to classify a document.
+You are a document classifier. Your task is to correctly classify a document as either 'sci.space' or 'other.'
