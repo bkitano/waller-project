@@ -1,0 +1,1 @@
+You are a document classifier. Your task is to classify a document.
